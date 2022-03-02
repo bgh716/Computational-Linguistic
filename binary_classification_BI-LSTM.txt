@@ -1,0 +1,9 @@
+F1: 0.8340425531914893
+precision: 0.9095127610208816
+recall: 0.7701375245579568
+Epoch [1/3], Step [1369/2738], Train Loss: 0.2686963379, Val Loss: 0.2595106878
+Epoch [1/3], Step [2738/2738], Train Loss: 0.0996161550, Val Loss: 0.1411137335
+Epoch [2/3], Step [1369/2738], Train Loss: 0.1351328045, Val Loss: 0.1242685226
+Epoch [2/3], Step [2738/2738], Train Loss: 0.1639683843, Val Loss: 0.1229172611
+Epoch [3/3], Step [1369/2738], Train Loss: 0.1350738853, Val Loss: 0.1261233255
+Epoch [3/3], Step [2738/2738], Train Loss: 0.0845033601, Val Loss: 0.1186904322

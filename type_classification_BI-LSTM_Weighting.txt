@@ -1,0 +1,15 @@
+F1: 0.9157792836398838
+precision: 0.9403578528827038
+recall: 0.8924528301886793
+Epoch [1/6], Step [317/635], Train Loss: 0.0877142251, Val Loss: 0.0806402449
+Epoch [1/6], Step [634/635], Train Loss: 0.0738768205, Val Loss: 0.0836664834
+Epoch [2/6], Step [317/635], Train Loss: 0.0557945073, Val Loss: 0.0836238597
+Epoch [2/6], Step [634/635], Train Loss: 0.0550252311, Val Loss: 0.0609315350
+Epoch [3/6], Step [317/635], Train Loss: 0.0582453758, Val Loss: 0.0528806683
+Epoch [3/6], Step [634/635], Train Loss: 0.0394492447, Val Loss: 0.0447592089
+Epoch [4/6], Step [317/635], Train Loss: 0.0414008833, Val Loss: 0.0389388257
+Epoch [4/6], Step [634/635], Train Loss: 0.0327105895, Val Loss: 0.0378453641
+Epoch [5/6], Step [317/635], Train Loss: 0.0327751637, Val Loss: 0.0342696695
+Epoch [5/6], Step [634/635], Train Loss: 0.0232756343, Val Loss: 0.0324442746
+Epoch [6/6], Step [317/635], Train Loss: 0.0370707735, Val Loss: 0.0337878218
+Epoch [6/6], Step [634/635], Train Loss: 0.0104859527, Val Loss: 0.0330230599
